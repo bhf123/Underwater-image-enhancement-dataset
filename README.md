@@ -1,2 +1,2 @@
 # Underwater-image-enhancement-dataset
-This repository provides the experimental dataset used in our research on underwater image enhancement and restoration.   It includes both the original data (EUVP and UFO-120) and the experimental results, distributed as encrypted compressed files for security purposes.
+The authors of this dataset kindly request that it be cited in any related publications. To ensure its proper use, all data are distributed in encrypted form. Researchers interested in accessing the dataset may contact the authors at wangjianping@hist.edu.cn .Upon receiving a reasonable academic request, we will provide the decryption password. Any downloading, access, or use of this dataset for commercial or non-academic purposes is strictly prohibited.
